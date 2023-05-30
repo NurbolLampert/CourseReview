@@ -6,4 +6,4 @@ Mohini Gupta- rde6mn
 Thomas Arnold - ybn4aq
 
 
-Run on IntelliJ along with downloaded JavaFX
+Run on IntelliJ along with downloaded JavaFX and sqlite3
